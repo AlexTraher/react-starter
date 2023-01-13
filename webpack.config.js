@@ -12,7 +12,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
     }),
   ],
   resolve: {
-    extensions: ['.js', '.jsx']
+    extensions: ['.js', '.jsx', '.css']
   },
   module: {
     rules: [
@@ -25,6 +25,10 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
             presets: ['@babel/preset-env', '@babel/preset-react']
           }
         }
+      },
+      {
+        test: /\.css$/i,
+        use: ["style-loader", "css-loader"]
       }
     ]
   },

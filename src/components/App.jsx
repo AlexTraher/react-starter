@@ -2,7 +2,7 @@ import React from 'react';
 
 const App = () => {
   return (
-    <h1>Hello World</h1>
+    <h1 className='header'>hello world<span className="cursor-blink"></span></h1>
   )
 }
 
