@@ -16,6 +16,6 @@ If you're new to development and haven't completed the `web-native-stater`, I'm 
 ## Where do I actually make changes though?
 To help the learning process, there's 3 emoji's to look out for across these example apps:
 
-🪵 - shown where we change the _structure_ of our application "I need a new button"
-🎨 - shown where we change _styles_ of our application "I need my button to be blue"
-🤖 - shown where we change the _functionality_ of our application "I need my button to increment a counter"
+- 🪵 - shown where we change the _structure_ of our application "I need a new button"
+- 🎨 - shown where we change _styles_ of our application "I need my button to be blue"
+- 🤖 - shown where we change the _functionality_ of our application "I need my button to increment a counter"
