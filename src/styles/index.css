@@ -49,3 +49,5 @@ html, body {
   display: inline-block;
   animation: blink 2s infinite;
 }
+
+/* 🎨🎨🎨 - new styles go here (remember that new styles will be applied based on query selectors - https://www.w3schools.com/cssref/css_selectors.php  */
