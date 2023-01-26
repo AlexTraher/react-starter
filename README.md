@@ -1,7 +1,7 @@
 # React Starter
 A minimalist starter to help learn react.
 
-See the blog post this is supported by [here](<LINK>)
+See the blog post this is supported by [here](https://blog.gait.dev/an-opinionated-guide-to-learning-web-development)
 
 If you're new to development and haven't completed the `web-native-stater`, I'm strongly recommend you do that - then come back here!
 
